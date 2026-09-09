@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.matplotlib-cache/
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+_practica_R_no_publicar/
+spectrum.csv
+features.xlsx
